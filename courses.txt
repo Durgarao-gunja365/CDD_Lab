@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 insert
 continuos delivary devops 
 software enginnering 
@@ -8,3 +9,8 @@ software engineering
 agile
 scrum
 safe
+=======
+
+this ppage is courses.txt
+
+>>>>>>> a3d2545 (commit from ubuntu)

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 to start writing in file file command line in ubuntu
 vi filename.txt ( it will open vi editor
 after opening to write data you type "i" then it will allow you to write 
@@ -5,3 +6,7 @@ after that complete the write enter esc
 after :wq enter then it will close the file
  
 
+=======
+ 
+this is the page created by using vi editor
+>>>>>>> a3d2545 (commit from ubuntu)
