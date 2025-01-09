@@ -12,5 +12,6 @@ safe
 =======
 
 this ppage is courses.txt
+testing from ubuntu by durga
 
 >>>>>>> a3d2545 (commit from ubuntu)
